@@ -46,7 +46,7 @@
     <section id="contact">
         <h2>Contact Us</h2>
         
-        <p>Have questions or feedback? Reach out to us!<br>Email: "prismastudios9.11@gmail.com" ; "rizwanischill@gmail.com"</p>
+        <p>Have questions or feedback? Reach out to us!<br>Email: <a href="prismastudios9.11@gmail.com">Prisma Mail</a> ; "rizwanischill@gmail.com"</p>
         
     </section>
 
