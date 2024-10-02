@@ -20,7 +20,7 @@
     </nav>
 
     <section id="home">
-        <h2>Welcome to <a href="https://prismastudios911.blogspot.com/">Prisma Studios</a></h2>
+        <h2>Welcome to <a href="https://prismastudios911.blogspot.com">Prisma Studios</a></h2>
         <p>Explore our exciting collection of comics and dive into amazing stories!You will be entralled by our original stries and hilarios comics.Dive In!</p>
     </section>
 
