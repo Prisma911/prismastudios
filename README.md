@@ -40,13 +40,13 @@
 
     <section id="about">
         <h2>About Us</h2>
-        <p>It all started on one normal school day. Two best friends,Zaeem and Rizwan had a brilliant idea <br>,why not outsource our productivity to the world?! <br>And thats how we came to be with you.We sincerely appreciate your supprt and cooperation.</p>
+        <p>It all started on one normal school day. Two best friends,Zaeem and Rizwan had a brilliant idea <br>,why not outsource our productivity to the world?! <br>And a little while later theirbest friend Harshit also joined them.And thats how we came to be with you.We sincerely appreciate your supprt and cooperation.</p>
     </section>
 
     <section id="contact">
         <h2>Contact Us</h2>
         
-        <p>Have questions or feedback? Reach out to us!<br>Email: <a href="prismastudios9.11@gmail.com">Prisma Mail</a> ; "rizwanischill@gmail.com"</p>
+        <p>Have questions or feedback? Reach out to us!<br>Email: "prismastudios9.11@gmail.com" ; "rizwanischill@gmail.com"</p>
         
     </section>
 
