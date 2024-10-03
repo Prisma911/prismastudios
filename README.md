@@ -9,6 +9,7 @@
 
     <header>
         <h1>Prisma Studios</h1>
+        <marquee behavior="alternate" direction="right" align="middle" height="25%" width="100%">Please Check out the Blog.New updates are Available.</marquee>
     </header>
 
     <nav>
@@ -18,7 +19,7 @@
         <a href="#about">About Us</a>
         <a href="#contact">Contact</a>
     </nav>
-<marquee behavior="alternate" direction="right" align="middle" height="25%" width="100%">Please Check out the Blog.New updates are Available.</marquee>
+
     <section id="home">
         <h2>Welcome to <a href="https://prismastudios911.blogspot.com">Prisma Studios</a></h2>
         <p>Explore our exciting collection of comics and dive into amazing stories!You will be entralled by our original stries and hilarios comics.Dive In!</p>
