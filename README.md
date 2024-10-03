@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <meta name="google-adsense-account" content="ca-pub-2254396076335709">
 </head>
 <body>
 
