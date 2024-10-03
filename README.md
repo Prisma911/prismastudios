@@ -52,7 +52,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Comic Publisher. All rights reserved.</p>
+        <p>&copy; 2023 Literature Publisher. All rights reserved.<br>No form of this page or any other linked webpage may be reproduced in any form.</p>
     </footer>
 
 </body>
